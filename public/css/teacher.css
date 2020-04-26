@@ -1,0 +1,57 @@
+.listattendance{
+margin-left: -30px;
+}
+
+.daterange{
+  margin-left:-10px;
+}
+.dateee{
+  margin-top: -33px;
+  margin-left: 45px;
+
+}
+
+
+ .container1{
+      margin-left: 10px;
+      padding: 20px 10px;
+      width: 1050px;
+      background-color: white;
+      height: 600px;
+    }
+    .container2{
+     padding-top:50px;
+     padding-left: 100px;
+     margin-left: 60px;
+      width: 900px;
+      background-color: white;
+      height: 600px;
+      border:solid 1px;
+    }
+
+    th{
+      background-color: #AAD036 ;
+    }
+    .items li.tap ul {
+  display: block;
+}
+.maincontent{
+      margin-left:21%;
+      padding: 20px 10px;
+      width: 78%;
+      background-color: white;
+      position:absolute;
+      
+    }
+    .personal{
+      margin-left:-100px;
+      margin-top:-40px;
+    }
+    .personal label{
+      margin-left: 20px;
+      font-size: 20px;
+    }
+    .ss{
+      margin-top:-20px;
+    }
+

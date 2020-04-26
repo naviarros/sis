@@ -1,0 +1,58 @@
+
+.info{
+		margin-left: 45%;
+		margin-top: -25%;
+	 }
+.modal-content{
+			height: 60%;
+			width: 200%;
+		}
+
+.modal-content{
+			margin-left: -250px;
+			margin-top: 50px;
+			   }
+.modal-title{
+		margin-top: -20px;
+			}
+
+.modal-header{
+	background-color:#AAD036 ;
+}
+.modal-body{
+	background-color:#13355F;
+	color:white;
+}
+.form-control {
+/*	border:0px;
+	position: absolute;
+	background: none;*/
+
+}
+.camera{
+ height: 150%;
+}   
+video{
+		margin-top:4%;
+		margin-left:4%;
+		height: 100%;
+  
+		}
+.maincontent{
+
+}
+}
+.jacob2{
+      margin-left:10px;
+       }
+/*  button{
+  	height:10%;
+  	width: 20%;
+  }*/
+
+ .bc{
+
+    margin-top:25px;
+    margin-left: -55%;
+  }
+  

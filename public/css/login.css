@@ -1,0 +1,57 @@
+body {
+	background: #113158;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.login-panel {
+	position: absolute;
+	margin: 0 -10%;
+	width: 30%;
+	height: 100%;
+	background: white;
+}
+.forgot-border {
+	width: 1200px;
+	height: 50%;
+	border: 1px solid black;
+	border-radius: 10px 5px;
+	margin: 100px 80px;
+}
+.login-logo-side {
+	position: relative;
+	left: 95px;
+	bottom: 10px;
+	width: 40%;
+	height: 20%;
+}
+
+.login-label {
+	margin-left: 60px;
+}
+
+.login-button {
+	margin-left: 60px;
+}
+
+.login-header {
+	font-weight: bold;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 15px;	
+	margin: 40px 120px;
+}
+
+.login-st {
+	width: 100%;
+	margin: 40px 155px;
+}
+
+.login-form label {
+	font-weight: 700;
+	margin: -10px 60px;
+}
+
+input[type=text].login-input, input[type=password].login-input {
+	margin: 10px 60px;
+	width: 80%;
+}

@@ -1,0 +1,55 @@
+  .leftform{
+      width: 40%;
+      margin-left:5%;
+      background-color: #13355F;
+
+    }
+    .leftform a{
+      color: ;
+
+    }
+    .row{
+
+      margin-left:2%;
+    }
+    .list{
+      font-family: Calibri;
+      font-size: 30px;
+      margin-left: 30px;
+
+    }
+    .rightform{
+      background-color:#13355F;
+
+      width: 40%;
+      margin-left:8%;
+    }
+    video{
+      height: 600px;
+      width:400px;
+      margin-top:-150px;
+      margin-left: 50px;
+    }
+  .info{
+    margin-top: -130px;
+    margin-left: 50px;
+    font-family: Calibri;
+    font-size: 20px;
+  }
+  button{
+
+ border: none;
+ background:none;
+ outline: none;
+ color:white;
+}
+.bang{ background-color: #AAD036;  }
+
+.ddd{
+  font-size: 20px;
+}
+
+.side-bar{
+
+/*  height: : 100%;*/
+}
