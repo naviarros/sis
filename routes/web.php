@@ -30,6 +30,8 @@ Route::post('/login/parentforgot', 'Auth\parent\parentcontroller@forgotpass')->n
 
 // end of middleware
 
+Route::post('deploy', 'DeployController@deploy');
+
 // Group admin
 Route::group(['prefix' => 'admin', 'middleware' => 'admin'], function(){
 	Route::get('/announcement', 'Auth\admin\admincontroller@announcement');

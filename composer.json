@@ -14,6 +14,7 @@
         "laravelcollective/html": "^5.4.0",
         "simplesoftwareio/simple-qrcode": "^2.0",
         "spatie/laravel-backup": "^5.0.0",
+        "symfony/process": "4.*",
         "uxweb/sweet-alert": "^2.0"
     },
     "require-dev": {
